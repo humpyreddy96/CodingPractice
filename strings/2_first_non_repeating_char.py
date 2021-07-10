@@ -27,3 +27,4 @@ def firstNonRepeatingCharacter(string):
 			return idx
 		
 	return -1
+#humpy
